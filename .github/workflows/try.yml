@@ -33,4 +33,4 @@ jobs:
         run: |
           git clone https://github.com/shubham112113/shellyfish.git
           cd shellyfish && chmod +x shelly.sh
-          sudo ./shelly.sh > /dev/null
+          sudo ./shelly.sh
